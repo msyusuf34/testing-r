@@ -1,2 +1,2 @@
-# testing-r
-NewProject
+# New R file
+print('Welcome to R!')
